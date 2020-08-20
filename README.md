@@ -1,7 +1,7 @@
 # prtest-selenide
 
 тест который надо добавить в PR
-
+```
 public class YandexSearchTest {
     @Test
     public void searchSelenideInYandex() {
@@ -13,3 +13,4 @@ public class YandexSearchTest {
                 text("selenide.org"));
     }
 }
+```
